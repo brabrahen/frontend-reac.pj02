@@ -1,0 +1,29 @@
+.byid {
+    width: 500px;
+    height: 250px;
+    justify-content: center;
+    background-color: aqua;
+    margin-left: 600px;
+    border-radius: 2rem;
+    border: 5px solid navy
+}
+
+.byyid {
+   margin-left: 50px;
+   margin-top: 60px;
+}
+
+.btns {
+    margin-left: 650px;
+}
+
+.btn-box {
+    width: 250px;
+    background-color: #2E8B57;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 80px;
+    
+}
+

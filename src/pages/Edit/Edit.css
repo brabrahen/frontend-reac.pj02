@@ -1,0 +1,64 @@
+.edit-section {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #4169E1;
+    border-radius: 3rem;
+   margin-right: 250px;
+}
+
+input {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 5px;
+    border: 2px solid #060b26;
+    height: 80px;
+    width: 400px;
+    border-radius: 1rem;
+}
+
+label {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+select {
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    padding-left: 20px;
+    border: 2px solid #060b26;
+    border-radius: 1rem;   
+
+}
+
+button {
+    background-color: #1a83ff;
+    margin-top: 15px;
+    border: 2px solid #060b26;
+    height: 50px;
+    width: 200px;
+    
+}
+
+.prazo {
+    height: 40px;
+}
+
+.tarefa {
+    height: 40px;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+}
+
